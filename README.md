@@ -1,16 +1,17 @@
-# web
+# Flutter Security Authentication
 
-A new Flutter project.
+Secure Auth 3 
 
-## Getting Started
+## Running Procedures
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a frontend applications.
 
-A few resources to get you started if this is your first Flutter project:
+Running the backend at local host in terminal (branch2)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Front end (Flutter env)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ID - admin
+Pass - admin
+
+Face Training Model : Initialze the application
+
