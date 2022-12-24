@@ -6,8 +6,6 @@ Secure Auth 3
 
 This project is a starting point for a frontend applications.
 
-Running the backend at local host in terminal (branch2)
-
 Front end (Flutter env)
 
 ID - admin
